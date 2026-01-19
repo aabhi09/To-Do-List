@@ -1,3 +1,5 @@
+# Command to run: python todo_compact.py
+
 # todo_compact.py
 import json, os
 from datetime import datetime
