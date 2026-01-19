@@ -1,5 +1,4 @@
 # To-Do-List
-# Compact To-Do List
 
 A lightweight, terminal-based to-do list manager written in **pure Python** (no external dependencies).
 
