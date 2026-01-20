@@ -1,11 +1,8 @@
 # To-Do-List
 
-A lightweight, terminal-based to-do list manager written in **pure Python** (no external dependencies).
+A lightweight, terminal-based to-do list manager written in **Pure Python**.
 
 Features persistent storage, priorities, due dates, tags, overdue highlighting, and colored output using ANSI escape codes.
-
-![Demo screenshot](https://via.placeholder.com/800x400/222/eee?text=Compact+To-Do+List+Demo)  
-*(Replace with actual screenshot when you have one)*
 
 ## Features
 
