@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+requests
+pandas>=2.0.0
+plotly>=5.18.0
+folium>=0.15.0
+streamlit-folium
+reportlab
